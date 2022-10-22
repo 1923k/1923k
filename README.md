@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kefuoe Sole a Mosotho gentleman aged 26 years old.
+- 👋 Hi, I’m Kefuoe Sole.
 - I'm a student at Botho University studying BSc in Computing: General and I'm in my 4th Year of study.
 - 👀 I’m interested in Software Development. Again, I'm intersted in Networking(Cybersecurity).
 - 🌱 I’m currently learning to how to develop Web applications usings html, CSS, JavaScript, PHP and Java.
