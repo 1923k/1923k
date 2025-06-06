@@ -5,6 +5,16 @@
 
 ---
 
+## **Education**
+
+### **Master’s in Information Systems Management**  
+*Currently Pursuing*  
+
+### **BSc (Hons) in Computing: General**  
+*Specialization*: Software Engineering and Network & Infrastructure Management  
+
+---
+
 ## **Professional Experience**
 
 ### **Cybersecurity Tutor**  
@@ -33,16 +43,6 @@
 
 ---
 
-## **Education**
-
-### **Master’s in Information Systems Management**  
-*Currently Pursuing*  
-
-### **BSc (Hons) in Computing: General**  
-*Specialization*: Software Engineering and Network & Infrastructure Management  
-
----
-
 ## **Skills and Expertise**
 
 - **Programming & Web Development**: HTML, CSS, JavaScript, PHP, Python, Flask, Bootstrap  
@@ -51,6 +51,18 @@
 - **Software Engineering**: Modular design, secure coding practices, software security practices  
 - **ICT Strategic Management**: System governance, Project Managment, IT planning, and organizational alignment  
 - **Data Analysis and Virtualization**: Practical experience with database management, reporting, and decision-making insights  
+
+---
+
+## 🌟 Job Opportunity Domains: Open to Work  
+I am available and open to work in the following domains:  
+- Software Engineering / Programming / Software Development  
+- Computer Hardware Repair & Maintenance  
+- ICT Consultancy  
+- Cybersecurity & Computer Networking  
+- Cloud Computing  
+- ICT Facilitation / Teaching  
+- Research  
 
 ---
 
