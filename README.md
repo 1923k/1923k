@@ -46,10 +46,11 @@
 ## **Skills and Expertise**
 
 - **Programming & Web Development**: HTML, CSS, JavaScript, PHP, Python, Flask, Bootstrap  
-- **Cybersecurity**: Ethical hacking, cryptography, network security, Kali Linux tools  
-- **Software Engineering**: Modular design, version control, secure coding practices  
-- **IT Tutoring**: Development of learning materials, assessment planning, technical support  
-- **Technical Proficiency**: VMware, VirtualBox, Git, SQLite  
+- **Cybersecurity**: Ethical hacking, penetration testing, cryptography, network security, Kali Linux tools  
+- **Cloud Computing**: Fundamentals of cloud computing
+- **Software Engineering**: Modular design, secure coding practices, software security practices  
+- **ICT Strategic Management**: System governance, Project Managment, IT planning, and organizational alignment  
+- **Data Analysis and Virtualization**: Practical experience with database management, reporting, and decision-making insights  
 
 ---
 
@@ -64,5 +65,6 @@ I aim to excel as a **Software Engineer**, contributing to the design, testing, 
 - **LinkedIn**: [www.linkedin.com/in/kefuoe-sole-0797061ba](https://www.linkedin.com/in/kefuoe-sole-0797061ba)  
 - **GitHub**: [github.com/1923k](https://github.com/1923k)  
 - **Email**: soolekefuoe2@gmail.com  
+- **Phone**: (+266) 5099 6609 / 5818 3915 / 6351 0004  
 
 📚 Always eager to learn and collaborate in the ever-evolving IT landscape. Feel free to reach out anytime!  
