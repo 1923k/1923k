@@ -56,7 +56,7 @@
 
 ## **Career Objective**
 
-I aim to excel as a **Software Engineer**, contributing to the design, testing, and maintenance of high-quality, secure software solutions. My goal is to work with a team of dedicated professionals to achieve organizational objectives while driving personal and professional growth.
+I aim to excel as an **IT Professional**, leveraging my expertise in programming, web development, cybersecurity, cloud computing, software engineering, ICT strategic management, and data analysis. My goal is to contribute to the design, testing, implementation, and maintenance of innovative, high-quality, and secure solutions. I am committed to collaborating with a team of dedicated professionals to achieve organizational goals while continuously advancing my personal and professional growth.
 
 ---
 
