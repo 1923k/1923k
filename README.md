@@ -10,8 +10,7 @@
 ### **Master’s in Information Systems Management**  
 *Currently Pursuing*  
 
-### **BSc (Hons) in Computing: General**  
-*Specialization*: Software Engineering and Network & Infrastructure Management  
+### **BSc (Hons) in Computing: General (Software Engineering and Network & Infrastructure Management )** 
 
 ---
 
