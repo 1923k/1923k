@@ -17,25 +17,25 @@
 ## **Professional Experience**
 
 ### **Cybersecurity Tutor**  
-**IT Center** | Jan 2025 – Present (6 mos) | Maseru District, Lesotho  
+**IT Center** | Jan 2025 – Present | Maseru District, Lesotho  
 - Teach cybersecurity fundamentals, including CIA triad, cryptography, ethical hacking, and global regulations.  
 - Provide hands-on training with tools like Kali Linux, VMware, and VirtualBox.  
 - Conduct practical sessions on SQL injection techniques, firewall configuration, and secure web applications.  
 
 ### **Python Programming Tutor**  
-**IT Center** | Jan 2025 – Present (6 mos) | Maseru District, Lesotho  
+**IT Center** | Jan 2025 – Present | Maseru District, Lesotho  
 - Teach Python fundamentals, Object-Oriented Programming (OOP), and web application development with Flask.  
 - Guide students in using SQLite for database access and secure coding practices.  
 - Lead projects on GUI development using Tkinter and practical data handling techniques.  
 
 ### **Web Development Tutor**  
-**IT Center** | Feb 2024 – Present (1 yr 5 mos) | Maseru District, Lesotho  
+**IT Center** | Feb 2024 – Present | Maseru District, Lesotho  
 - Train students in HTML, CSS, JavaScript, Bootstrap, and full-stack web development.  
 - Provide instruction on version control tools like Git and collaborative development on GitHub.  
 - Support IT-related projects, organize workshops, and research emerging technologies.  
 
 ### **ICT Facilitator and IT Support Technician**  
-**Destiny Computer Solutions** | Jul 2022 – Nov 2022 (5 mos) | Teyateyaneng, Lesotho  
+**Destiny Computer Solutions** | Jul 2022 – Nov 2022 | Teyateyaneng, Lesotho  
 - Planned and conducted IT facilitation and assessments for learners.  
 - Provided hardware/software repair and maintenance, client support, and troubleshooting services.  
 - Compiled reports on facilitation and technical support activities.  
